@@ -1,0 +1,53 @@
+{
+  "title": "Champignon no Majo",
+  "description": "Luna, a black witch who lives quietly in a poisonous mushroom house, deep in the Black Forest. She lives in the city making high-efficiency medicine, but it is rumored that one will die if touched by her, and thus she is avoided.... The life of a witch who doesn't know the warmth of people is carefully and momentarily drawn.",
+  "artist": "樋口橘 (Higuchi Tachibana)",
+  "author": "樋口橘 (Higuchi Tachibana)",
+  "cover": "https://i.imgur.com/9HSI0g8.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Black Witch Luna",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/BBQ7snL/"
+      },
+      "last_updated": "1596756120"
+    },
+    
+    "2": {
+      "title": "A Picture of a Boy",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/z2GXgRv/"
+      },
+      "last_updated": "1601477520"
+    },
+    
+    "3": {
+      "title": "Henri",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/bgdi5kg/"
+      },
+      "last_updated": "1608030060"
+    },
+    
+    "4": {
+      "title": "A Person of Fate",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/UIds08I/"
+      },
+      "last_updated": "1613348280"
+    },
+    
+    "4.5": {
+      "title": "Auguste Gilles' Diary",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/iKdfSOb/"
+      },
+      "last_updated": "1614933360"
+    }
+  }
+}
