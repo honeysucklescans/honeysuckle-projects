@@ -1,0 +1,63 @@
+{
+  "title": "Bungo to Alchemist: Shinpan no Haguruma",
+  "description": "
+A spinoff manga based on DMM Games' PC and smartphone game "Bungo to Alchemist" in commemoration of the anime debut, with a new artist and new characters every week!\n\nFor more by Honeysuckle Scans:\nDiscord: http://discord.gg/r24wWG7\nTumblr: https://honeysucklescans.tumblr.com/",
+  "artist": "Changes each chapter",
+  "author": "Changes each chapter",
+  "cover": "https://i.imgur.com/rpvuylr.png",
+  "chapters": {
+    "0": {
+      "title": "Story & Author Intro",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/IWYAtPl/"
+      },
+      "last_updated": "1597899240"
+    },
+    
+    "1": {
+      "title": "Akutagawa Ryuunosuke & Dazai Osamu",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/BEKGwxJ/"
+      },
+      "last_updated": "1598993880"
+    },
+    
+    "2": {
+      "title": "Tokuda Shuusei & Shimazaki Touson",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/ZP1r9GK/"
+      },
+      "last_updated": "1604554560"
+    },
+    
+    "3": {
+      "title": "Dazai Osamu & Nakahara Chuuya",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/Leza6XR/"
+      },
+      "last_updated": "1604554560"
+    },
+    
+    "4": {
+      "title": "Oda Sakunosuke & Sakaguchi Ango",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/M3AHQf8/"
+      },
+      "last_updated": "1608691740"
+    },
+    
+    "5": {
+      "title": "Hagiwara Sakutarou & Murou Saisei",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/SFQDTsE/"
+      },
+      "last_updated": "1612462260"
+    }
+  }
+}
