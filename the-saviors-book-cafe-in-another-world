@@ -43,7 +43,7 @@
     
     "13": {
       "title": "",
-      "volume": "",
+      "volume": "3",
       "groups": {
         "Honeysuckle Scans": "/proxy/api/imgur/chapter/oAHMzn3/"
       },
@@ -52,7 +52,7 @@
     
     "14": {
       "title": "",
-      "volume": "",
+      "volume": "3",
       "groups": {
         "Honeysuckle Scans": "/proxy/api/imgur/chapter/rFalap7/"
       },
@@ -61,11 +61,20 @@
     
     "15": {
       "title": "",
-      "volume": "",
+      "volume": "3",
       "groups": {
         "Honeysuckle Scans": "/proxy/api/imgur/chapter/EbPRP0w/"
       },
       "last_updated": "1618820713"
+    },
+    
+    "16": {
+      "title": "",
+      "volume": "3",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/f47nMfN/"
+      },
+      "last_updated": "1623135462"
     }
   }
 }
