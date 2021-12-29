@@ -84,8 +84,7 @@
         "Honeysuckle Scans": "/proxy/api/imgur/chapter/ajua1VY/"
       },
       "last_updated": "1629154846"
-    }
-  },
+    },
     
     "9": {
       "title": "Kume Masao & Hori Tatsuo",
@@ -94,6 +93,15 @@
         "Honeysuckle Scans": "/proxy/api/imgur/chapter/yftOZjt/"
       },
       "last_updated": "1631569359"
+    },
+    
+    "10": {
+      "title": "Akutagawa Ryuunosuke & Kikuchi Kan",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/BJ0o1Tt/"
+      },
+      "last_updated": "1640753850"
     }
   }
 }
