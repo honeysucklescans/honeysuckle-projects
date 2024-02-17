@@ -48,6 +48,24 @@
         "Honeysuckle Scans": "/proxy/api/imgur/chapter/S935lvZ/"
       },
       "last_updated": "1708147271"
+    },
+
+    "5.5": {
+      "title": "Bonus",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/N1bUC89/"
+      },
+      "last_updated": "1708148509"
+    },
+
+    "6": {
+      "title": "Afterstory",
+      "volume": "1",
+      "groups": {
+        "Honeysuckle Scans": "/proxy/api/imgur/chapter/AQqUTpF/"
+      },
+      "last_updated": "1708148645"
     }
   }
 }
